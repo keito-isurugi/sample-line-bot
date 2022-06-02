@@ -1,0 +1,2574 @@
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16186714287247
+            [text] => sss
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16186714287247
+                    [text] => sss
+                )
+
+            [webhookEventId] => 01G4F76NQ0959Y1DVN9TTWVAJY
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654073283806
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 94133aeff72e4c2087680dbfb24fb388
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\StickerMessage Object
+(
+    [message:protected] => Array
+        (
+            [type] => sticker
+            [id] => 16186720250368
+            [stickerId] => 457303702
+            [packageId] => 24700
+            [stickerResourceType] => ANIMATION
+            [keywords] => Array
+                (
+                    [0] => OK
+                    [1] => Affirmative
+                    [2] => Gotcha
+                    [3] => agree
+                )
+
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => sticker
+                    [id] => 16186720250368
+                    [stickerId] => 457303702
+                    [packageId] => 24700
+                    [stickerResourceType] => ANIMATION
+                    [keywords] => Array
+                        (
+                            [0] => OK
+                            [1] => Affirmative
+                            [2] => Gotcha
+                            [3] => agree
+                        )
+
+                )
+
+            [webhookEventId] => 01G4F78R9FSG3P5K9FYNE53HH6
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654073352364
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => acabb8c69da54c40bb7c1176653ddf87
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\StickerMessage Object
+(
+    [message:protected] => Array
+        (
+            [type] => sticker
+            [id] => 16186722922476
+            [stickerId] => 457303705
+            [packageId] => 24700
+            [stickerResourceType] => ANIMATION
+            [keywords] => Array
+                (
+                    [0] => here you are?
+                    [1] => !!
+                    [2] => Smug
+                    [3] => omw
+                    [4] => En route
+                )
+
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => sticker
+                    [id] => 16186722922476
+                    [stickerId] => 457303705
+                    [packageId] => 24700
+                    [stickerResourceType] => ANIMATION
+                    [keywords] => Array
+                        (
+                            [0] => here you are?
+                            [1] => !!
+                            [2] => Smug
+                            [3] => omw
+                            [4] => En route
+                        )
+
+                )
+
+            [webhookEventId] => 01G4F79P9DHMYHASJRK56MVB1Z
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654073382933
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => bf23ae051a424b29a6850bcffd360f5b
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16186809919486
+            [text] => aaa
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16186809919486
+                    [text] => aaa
+                )
+
+            [webhookEventId] => 01G4F85D0T355D44NWVGQMG07Y
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654074290848
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 9d02a4b8f5504867adf4baff6104f613
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16186810305938
+            [text] => bbb
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16186810305938
+                    [text] => bbb
+                )
+
+            [webhookEventId] => 01G4F85GTSWANNRFPYV6WKYN70
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654074294791
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => e35fc3cc07be4cef8fd9d7178ffb569e
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16186810463969
+            [text] => bb
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16186810463969
+                    [text] => bb
+                )
+
+            [webhookEventId] => 01G4F85JESZZ5AQ2YY1AQACY9P
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654074296425
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 5752699f884e40cca49197519980d08c
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16186810556305
+            [text] => b
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16186810556305
+                    [text] => b
+                )
+
+            [webhookEventId] => 01G4F85K6H2NE9N9M12ZPZ5G8F
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654074297381
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 2c61a784d7c3450997703034911a717e
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16186810702513
+            [text] => b
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16186810702513
+                    [text] => b
+                )
+
+            [webhookEventId] => 01G4F85MHYBSBM2V9AM7J44F18
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654074298875
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 8f5350fdc3494ae186c9653f39a51209
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16186811266569
+            [text] => aaa
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16186811266569
+                    [text] => aaa
+                )
+
+            [webhookEventId] => 01G4F85TA259EXE5FYBR78PCRK
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654074304541
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 5a1e1ac5bc1645a0944616422c270805
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16187783990737
+            [text] => a
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16187783990737
+                    [text] => a
+                )
+
+            [webhookEventId] => 01G4FJ8THE5HS2JHY491PD5SXS
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654084888856
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 0df274b155034dcca4f66fe1b54c3887
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16187848725010
+            [text] => 予約
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16187848725010
+                    [text] => 予約
+                )
+
+            [webhookEventId] => 01G4FJXJZZG6JZKJK2JNX9SBXC
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654085569019
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 77c3bf9ac665412998723e0d6f2c4a89
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16187934966534
+            [text] => 予約
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16187934966534
+                    [text] => 予約
+                )
+
+            [webhookEventId] => 01G4FKSP3V6AAQF3K2152SYFEB
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654086490103
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => d42b4c99c73f4ca59382b798f8eed467
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188036177855
+            [text] => h
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188036177855
+                    [text] => h
+                )
+
+            [webhookEventId] => 01G4FMTDZVX4Z7264ARB5BC9TZ
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654087562936
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => a6be5ac8a166450f8e9aa8641efa29c0
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188042179746
+            [text] => l
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188042179746
+                    [text] => l
+                )
+
+            [webhookEventId] => 01G4FMWB20QEJ3WJKYHC6NAY46
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654087625763
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => d2d64d5fd2ab46228c81aed366dc0925
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188061712109
+            [text] => s
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188061712109
+                    [text] => s
+                )
+
+            [webhookEventId] => 01G4FN2GJD3QZDBXVE3J4YAKS3
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654087827987
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 926ab95bd97b4d1392d196ad7c544a8d
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188072979462
+            [text] => dd
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188072979462
+                    [text] => dd
+                )
+
+            [webhookEventId] => 01G4FN644GBTBYGDYECTQWHCKW
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654087946271
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 99580e6f72ff4098a0a8bafb0d768752
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188111734157
+            [text] => sdf
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188111734157
+                    [text] => sdf
+                )
+
+            [webhookEventId] => 01G4FNJQQWMHSS6HCZNEA4D3SQ
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654088359163
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 3755995d2c794db2b37cdfb564c71fec
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188113823897
+            [text] => sdf
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188113823897
+                    [text] => sdf
+                )
+
+            [webhookEventId] => 01G4FNKD38Q2ZMTK9SCNVEMDWP
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654088381323
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 95b1c0d25fb04a8180f011a9c58ba55c
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188190296110
+            [text] => sdf
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188190296110
+                    [text] => sdf
+                )
+
+            [webhookEventId] => 01G4FPCAMDCJ9DZJQ40VG9BRDV
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654089197703
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => f8d28a628d764d1b9dbdf3440172984a
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188202759040
+            [text] => dfg
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188202759040
+                    [text] => dfg
+                )
+
+            [webhookEventId] => 01G4FPGHQPWSK8A9D38121KPNS
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654089336496
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => fe823726c03044e1ac4e6f3367e03ca4
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188207811055
+            [text] => sfd
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188207811055
+                    [text] => sfd
+                )
+
+            [webhookEventId] => 01G4FPJ9JQF5639R0J221CSQ4D
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654089393239
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 098f0b1b2ca44ab5a6e56e46557e9dc3
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188208580435
+            [text] => sdf
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188208580435
+                    [text] => sdf
+                )
+
+            [webhookEventId] => 01G4FPJJ1RH0DBC2WN9VQRDC2K
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654089401911
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 5ff12f541abc47cdaab209d49f55cf7c
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188212437229
+            [text] => 予約
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188212437229
+                    [text] => 予約
+                )
+
+            [webhookEventId] => 01G4FPKW62VWTTR3DCY3ECDVAC
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654089445272
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 3a01563395a947ed911dce024ff3fa5c
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188221055339
+            [text] => っｄ
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188221055339
+                    [text] => っｄ
+                )
+
+            [webhookEventId] => 01G4FPPV4GRC4HAES6G036N3JN
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654089542262
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => f5317b7b9f984c7894b35270eb255e2a
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188222657646
+            [text] => 予約
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188222657646
+                    [text] => 予約
+                )
+
+            [webhookEventId] => 01G4FPQCAP5TXMKM3E1P2SXR9B
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654089559894
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U035e21f2e9e041b13e4f8d04b8781986
+                )
+
+            [replyToken] => 82e718f6268a4728beb359e849946140
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\StickerMessage Object
+(
+    [message:protected] => Array
+        (
+            [type] => sticker
+            [id] => 16188225365136
+            [stickerId] => 5864076
+            [packageId] => 1143809
+            [stickerResourceType] => STATIC
+            [keywords] => Array
+                (
+                    [0] => Waking up
+                    [1] => Getting up
+                    [2] => Sleepy
+                )
+
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => sticker
+                    [id] => 16188225365136
+                    [stickerId] => 5864076
+                    [packageId] => 1143809
+                    [stickerResourceType] => STATIC
+                    [keywords] => Array
+                        (
+                            [0] => Waking up
+                            [1] => Getting up
+                            [2] => Sleepy
+                        )
+
+                )
+
+            [webhookEventId] => 01G4FPR8XHXB409X1F4RWPNC6F
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654089589657
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U035e21f2e9e041b13e4f8d04b8781986
+                )
+
+            [replyToken] => f7174ba4793c45a3ac014280aa155ddf
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188231965747
+            [text] => こいぬ
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188231965747
+                    [text] => こいぬ
+                )
+
+            [webhookEventId] => 01G4FPTGZSBQSWEC81KBFSN4PQ
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654089663284
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U035e21f2e9e041b13e4f8d04b8781986
+                )
+
+            [replyToken] => 4e44d60876c940b4999f04ae24c511ed
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188340369767
+            [text] => sdf
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188340369767
+                    [text] => sdf
+                )
+
+            [webhookEventId] => 01G4FR03HWMEH59WM4QPCBEQ8T
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654090894868
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => e4c1051d5bbe49d6b88cab141ee8e51a
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188342248747
+            [text] => sdf
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188342248747
+                    [text] => sdf
+                )
+
+            [webhookEventId] => 01G4FR0R9J6H8PNN2YC0698YD9
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654090916086
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 5997ce00ac964126a9706169a8abfa91
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188344049011
+            [text] => sdf
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188344049011
+                    [text] => sdf
+                )
+
+            [webhookEventId] => 01G4FR1CQS248Z3Z2F6RV5PK28
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654090936820
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 3119b896a3a147f985fb5d87fc2bd636
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188347794739
+            [text] => sdf
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188347794739
+                    [text] => sdf
+                )
+
+            [webhookEventId] => 01G4FR2PT2R4D8S1ME8PSPA85C
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654090979891
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 7ccb5e7c00c74d5ba962e39a3d161eca
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188348913636
+            [text] => sdf
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188348913636
+                    [text] => sdf
+                )
+
+            [webhookEventId] => 01G4FR33E0GS79MF7SB4G5YV0B
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654090992834
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 4a9dc334b0e047a082ecae6438e91bd3
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188366086587
+            [text] => sd
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188366086587
+                    [text] => sd
+                )
+
+            [webhookEventId] => 01G4FR96XTS3TWKMH4VCN6YH76
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654091193113
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 18390199e9654bd5878e768985d05696
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188412342153
+            [text] => d
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188412342153
+                    [text] => d
+                )
+
+            [webhookEventId] => 01G4FRSV6ZQK48W1Q2ME7XR261
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654091738019
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 9fd5ea45be064955addfbe1a221311cd
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188412914641
+            [text] => スタンプ
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188412914641
+                    [text] => スタンプ
+                )
+
+            [webhookEventId] => 01G4FRT20D5KVZYBX1BJX2G6QH
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654091744909
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 4b63f3019171455ba2b999f82617a639
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188414941801
+            [text] => スタンプ
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188414941801
+                    [text] => スタンプ
+                )
+
+            [webhookEventId] => 01G4FRTS2QQEZ9K4SGK300R65P
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654091768555
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 1f8a0d857c1143b2a2c432233851d630
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188417036729
+            [text] => s
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188417036729
+                    [text] => s
+                )
+
+            [webhookEventId] => 01G4FRVH9V3BHPJFXPER3GTK5A
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654091793211
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => f69e6cf0ba5748209f1b5381b8491bf4
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188417558062
+            [text] => スタンプ
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188417558062
+                    [text] => スタンプ
+                )
+
+            [webhookEventId] => 01G4FRVQA5QSXY3AJJ7Z83GX1J
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654091799368
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 60dd7a0b83bb48eba351d99f7dbfd745
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188421499534
+            [text] => スタンプ
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188421499534
+                    [text] => スタンプ
+                )
+
+            [webhookEventId] => 01G4FRX4KQFQQGR2XE0ZJTYCXG
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654091846217
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 12f0529a53f442ca9de2cf027d9d6fb2
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188422341483
+            [text] => ｓ
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188422341483
+                    [text] => ｓ
+                )
+
+            [webhookEventId] => 01G4FRXERBCX5J1QTWR3FXQNTV
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654091856141
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 2e9fc6db38884ae2a543116b51b2d919
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188422672142
+            [text] => スタンプ
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188422672142
+                    [text] => スタンプ
+                )
+
+            [webhookEventId] => 01G4FRXJPWTM11QXVC58DAEMY0
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654091860187
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 6d0041ea7e2f4d6ebfca20568946bb51
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188423358699
+            [text] => aaa
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188423358699
+                    [text] => aaa
+                )
+
+            [webhookEventId] => 01G4FRXTHC2WWKMGB5GCPYTXFC
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654091868231
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 1e9f6027626e4beaaf1583488f0cfaca
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188423527208
+            [text] => ho
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188423527208
+                    [text] => ho
+                )
+
+            [webhookEventId] => 01G4FRXWE9WT0P6PET9FJQKMCE
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654091870206
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 2fe425790fb74a56b23b8e352fc66e6f
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188427904761
+            [text] => aa
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188427904761
+                    [text] => aa
+                )
+
+            [webhookEventId] => 01G4FRZEXKTGV65VQRCSB5PBKM
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654091922211
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 5cf2dab47fb64484b01e54c4a9c0b651
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188428314607
+            [text] => aaa
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188428314607
+                    [text] => aaa
+                )
+
+            [webhookEventId] => 01G4FRZM5V2KDVXB2R5Q01VMJ7
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654091927227
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 82308d0e9d5948f780aba9cca9110395
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188474911227
+            [text] => sdf
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188474911227
+                    [text] => sdf
+                )
+
+            [webhookEventId] => 01G4FSGDXGC23V2F84S1PD3XMW
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654092477873
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => b030f67e02554562ba7fa0e84eaab6bd
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188487837579
+            [text] => cv
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188487837579
+                    [text] => cv
+                )
+
+            [webhookEventId] => 01G4FSN82XTEA86W14H2KFZVEW
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654092635823
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => a9eecea0bda14d5fb5fd9352ed2ee57a
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188490981119
+            [text] => sd
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188490981119
+                    [text] => sd
+                )
+
+            [webhookEventId] => 01G4FSPE28ZDSQ799WVNP7Y0P1
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654092674745
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 0d4d83ce5b704ac18bf737b31a54e9e3
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188492963574
+            [text] => sd
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188492963574
+                    [text] => sd
+                )
+
+            [webhookEventId] => 01G4FSQ5PSY5SWYMAKR7C9MJYC
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654092698844
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => df818bc0af674a4d8e5c84538a03f43e
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188495257366
+            [text] => ｄｆ
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188495257366
+                    [text] => ｄｆ
+                )
+
+            [webhookEventId] => 01G4FSR1C6575KB668QC648JDF
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654092727223
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 0c2abfe0f5314792a967de12ba13cf23
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188496263575
+            [text] => ｆ
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188496263575
+                    [text] => ｆ
+                )
+
+            [webhookEventId] => 01G4FSRDNP35NPWMBF3RK55FN0
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654092739741
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => ddfe8cdec5714a44ba3c5fe190a8cf79
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188501912653
+            [text] => sdf
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188501912653
+                    [text] => sdf
+                )
+
+            [webhookEventId] => 01G4FSTHT4R5A6YRRRS9QHPTPD
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654092809855
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => f33ffd6809f047368aecce9ca11078df
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188507744955
+            [text] => f
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188507744955
+                    [text] => f
+                )
+
+            [webhookEventId] => 01G4FSWRP3E1RXCKH34EJ0ZP7B
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654092882463
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 56bc2e38b8a04eaf9cf3588ee489beb6
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188521327527
+            [text] => d
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188521327527
+                    [text] => d
+                )
+
+            [webhookEventId] => 01G4FT1YKP314DSJMYS8H8H36X
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654093052249
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => a68a450999f6414f844a15e6f7e40733
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16188554781019
+            [text] => 予約
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16188554781019
+                    [text] => 予約
+                )
+
+            [webhookEventId] => 01G4FTEY1ZCWJQC72TT1090F0N
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654093477701
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => d2bfaeb755e441959dba7deae7ac8d95
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16190195641939
+            [text] => d
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16190195641939
+                    [text] => d
+                )
+
+            [webhookEventId] => 01G4GVBBGEEXY29A2YR4FM9A6Z
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654127963538
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 028b745968f0415ba19daf30b6ef26cf
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16190196834162
+            [text] => d
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16190196834162
+                    [text] => d
+                )
+
+            [webhookEventId] => 01G4GVBZH2EDBNHFAJD57KK0YV
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654127983653
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 5c664acffaf84d209c844685bdf05a07
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16190198304037
+            [text] => d
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16190198304037
+                    [text] => d
+                )
+
+            [webhookEventId] => 01G4GVCPXBSV5SH47TWJ904NJH
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654128007593
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => dd774f2979c14791842a5b5598287dde
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16190199353397
+            [text] => d
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16190199353397
+                    [text] => d
+                )
+
+            [webhookEventId] => 01G4GVD6CP6AA2M86TZB16VKCM
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654128023494
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => d46366a65a774492a1d319590c30e0d6
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16190205863539
+            [text] => a
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16190205863539
+                    [text] => a
+                )
+
+            [webhookEventId] => 01G4GVG6S24ZPJ0YZVPR3WDFJK
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654128122146
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => f87190e49aa64c7faf22e4e6298c19e0
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16190255346718
+            [text] => d
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16190255346718
+                    [text] => d
+                )
+
+            [webhookEventId] => 01G4GW8EJ6DYD2K49QZBTKWZF1
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654128916996
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => c46410da524f436a9eb9d4369dee039a
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16194043716723
+            [text] => 予約
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16194043716723
+                    [text] => 予約
+                )
+
+            [webhookEventId] => 01G4J8V0YBRQ23S9EH7MVTG013
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654175662712
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 3ccb11318e90481f9b9210f6806ba5d6
+            [mode] => active
+        )
+
+)
+
+LINE\LINEBot\Event\MessageEvent\TextMessage Object
+(
+    [emojis:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [mentionees:LINE\LINEBot\Event\MessageEvent\TextMessage:private] => 
+    [message:protected] => Array
+        (
+            [type] => text
+            [id] => 16194130666729
+            [text] => 予約
+        )
+
+    [event:protected] => Array
+        (
+            [type] => message
+            [message] => Array
+                (
+                    [type] => text
+                    [id] => 16194130666729
+                    [text] => 予約
+                )
+
+            [webhookEventId] => 01G4J9SEXK4N3D7462932FQR17
+            [deliveryContext] => Array
+                (
+                    [isRedelivery] => 
+                )
+
+            [timestamp] => 1654176659939
+            [source] => Array
+                (
+                    [type] => user
+                    [userId] => U66964eb6df402026c11bb037f587fb7b
+                )
+
+            [replyToken] => 36c476071de540e88cce92717f3b53f8
+            [mode] => active
+        )
+
+)
+
